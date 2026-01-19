@@ -1,9 +1,11 @@
 # HyperTools
 
-A suite of cli tools and a javascript cli/tui program framework
+A suite of cli tools and a javascript cli/tui program framework.
 Program created with hypertools can:
-- Easily and securely connect to another of your devices with hypertools installed (easy file and data transfers between devices)
-- Store and sync data automatically across user devices (the data is always up-to-date like in webapps but it's free and your data stays yours)
+- Easily and securely connect to another of your devices with hypertools installed (easy file and data
+transfers between devices)
+- Store and sync data automatically across user devices (the data is always up-to-date like in webapps
+but it's free and your data stays yours)
 
 The app automatically catch up to the latest available database updates when another device is online.
 

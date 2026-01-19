@@ -1,10 +1,11 @@
 # HyperTools
 
-A collection of cli tools embed in a single app to easily sync data bewteen devices in P2P.
-P2P is usefull in this case since it allow us to send data between two online devices without
-the need to host a service on a server.
+A suite of cli tools and a javascript cli/tui program framework
+Program created with hypertools can:
+- Easily and securely connect to another of your devices with hypertools installed (easy file and data transfers between devices)
+- Store and sync data automatically across user devices (the data is always up-to-date like in webapps but it's free and your data stays yours)
 
-The app automatically catch up to the latest available updates when another device is online.
+The app automatically catch up to the latest available database updates when another device is online.
 
 
 ### Use Case 1 - Personal Devices Only :
@@ -28,7 +29,10 @@ the need for a server setup while gaining the same advantages. A server can also
 sync-group so a single server can assure 24/7 data availability to a group of many users.
 
 
-
+# Implemented features
+- User/devices IDs generation
+- Store localy password-encrypted mnemonic
+- main schema-sheet database (store user ID, device IDs, databases keys...)
 
 
 ## Archtecture

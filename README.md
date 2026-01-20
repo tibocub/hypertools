@@ -1,5 +1,4 @@
 # HyperTools
-MIT - THIS SOFTWARE IS FREE AND OPEN SOURCE <3
 
 **A framework for building P2P-synced tools without the complexity.**
 
@@ -87,3 +86,6 @@ Tools:
 - tool.conf file with tool info and permissions asked to hypertools (file read/write, used programs, npm dependencies...)
 - index.js
 - schema.js (schemes can be put in index.js but this is more readable)
+
+
+MIT - This software is free and open-source <3
